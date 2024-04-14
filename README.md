@@ -8,5 +8,5 @@ Database: PostgreSQL, sequalize
 #Getting Started
 1.Clone this repository to your local machine.
 2.Configure the PostgreSQL, PORT connection string in the backend .env file.
-3.Start the development server by running npm start in both the frontend and npm run dev backend directories.
+3.Start the development server by running npm start in both the client and npm run dev server directories.
 4.Access the application by visiting http://localhost:3000 in your web browser.
