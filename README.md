@@ -1,6 +1,6 @@
 # Elekbutikk
-This repository contains a full-stack  shop developed using the MERN stack (MongoDB, Express.js, React, and Node.js). The project utilizes modern web technologies to build a feature-rich online store.
-#Tech Stack
+This repository contains a full-stack  shop developed using the MERN stack (PostgreSQl, Express.js, React, and Node.js). The project utilizes modern web technologies to build a feature-rich online store.
+Tech Stack
 Frontend: React.js, mobx
 Backend: Node.js, Express.js, JWT, bcrypt
 API,ApiError
